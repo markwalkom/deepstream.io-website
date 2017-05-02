@@ -1,5 +1,7 @@
 # deepstream.io-website
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/deepstreamIO/deepstream.io-website.svg)](https://greenkeeper.io/)
+
 ## Setup
 
 - Clone this repo,
